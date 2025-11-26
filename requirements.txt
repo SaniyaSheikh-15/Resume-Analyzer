@@ -1,0 +1,6 @@
+gradio
+pytesseract
+pdf2image
+pillow
+spacy
+pandas
